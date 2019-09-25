@@ -1,4 +1,4 @@
-# Monokai Night for Windows Terminal 
+# Monokai Night for [Windows Terminal](https://github.com/Microsoft/Terminal)
 
 ![screenshot of this theme](./resources/screenshot.jpg)
 
